@@ -87,4 +87,3 @@ How to Use The Database
 
 
 
-✅ **You’re all set!** Import the SQL file, explore the schema, and start booking virtual patients! 🩺📅
